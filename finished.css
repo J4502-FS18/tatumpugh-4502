@@ -45,9 +45,14 @@ body{
     margin: 0 auto;
 }
 
+ul {
+  list-style: none;
+	padding: 0;
+}
+
 #nav {
     padding: 0;
-	list-style-type: none;
+	list-style: none;
 }
 
 #nav li {
@@ -55,7 +60,7 @@ body{
     padding: 0;
 	border-bottom: 1px solid #ccc;
 	text-decoration: none;
-	list-style-type: none;
+	list-style: none;
 }
 
 #nav a:link, a:visited {
