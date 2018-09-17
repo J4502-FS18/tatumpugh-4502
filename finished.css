@@ -87,11 +87,12 @@ ul {
     font-style: italic;
     font-size: 0.8em;
     margin-top: 0;
-    text-align: right;
+    text-align: center;
 }
 
 #footer {
     color: black;
+		background-color: #91AA9D;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 0.8em;
     border-top: 1px solid black;
