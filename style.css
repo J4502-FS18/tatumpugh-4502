@@ -6,11 +6,10 @@
 
 html {
 	font-size: 100%;
-	text-align: center;
 }
 
 p {
-	/* color: #666666; */
+	color: #black;
     font-family: 'Merriweather Sans', Helvetica, Arial, sans-serif;
 		font-size: 1rem;
 		line-height: 1.45rem;
@@ -26,7 +25,6 @@ h1 {
 
 body{
 	background-color:#ebe3ce;
-	text-align: center;
 }
 
 #container{
