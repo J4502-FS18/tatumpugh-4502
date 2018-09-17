@@ -9,6 +9,7 @@ p {
 	color: black;
 	text-align: center;
 	text-decoration: none;
+	margin: auto;
 }
 
 .italic {
@@ -37,12 +38,14 @@ body{
 	text-align: center;
 	text-decoration: none;
 	list-style-type: none;
+	padding: auto;
+	margin: auto;
 }
 
 #container{
     width: 95%;
     background-color: #FCFFF5;
-    margin: 0 auto;
+    margin: auto;
 }
 
 ul {
