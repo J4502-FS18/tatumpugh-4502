@@ -3,13 +3,16 @@ html {
 }
 
 p {
-    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+    font-family: 'Open Sans', sans-serif, 'Times New Roman';
 	font-size: 1rem;
 	line-height: 1.5rem;
 	color: black;
 	text-align: center;
 	text-decoration: none;
-	margin: auto;
+	margin bottom: 15px;
+	margin-top: 15px;
+	padding-right: 210px;
+	padding-left: 210px;
 }
 
 .italic {
@@ -17,15 +20,19 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Merriweather Sans", Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif, 'Times New Roman';
 		color: black;
 		text-align: center;
 		list-style-type: none;
 }
 
 h1 {
-	font-size: 2.5rem;
+	font-size: 3.5rem;
 	text-align: center;
+	font-family:'Rock Salt', cursive, 'Times New Roman';
+	padding: auto;
+	margin: auto;
+	color: #193441;
 }
 
 h2 {
@@ -38,8 +45,8 @@ body{
 	text-align: center;
 	text-decoration: none;
 	list-style-type: none;
-	padding: auto;
-	margin: auto;
+	margin-bottom: 17px;
+	margin-top: 17px;
 }
 
 #container{
@@ -51,6 +58,7 @@ body{
 ul {
   list-style: none;
 	padding: 0;
+	font-family: 'Open Sans', sans-serif, 'Times New Roman';
 }
 
 #nav {
@@ -70,12 +78,13 @@ ul {
 	display:block;
     color: #3E606F;
     background-color: #D1DBBD;
-    font-weight: bold;
     text-align:center;
     text-decoration: none;
-    padding: 4px;
-    font-family: Helvetica, Arial, sans-serif;
+    padding: 8px;
+    font-family: 'Open Sans', sans-serif, 'Times New Roman';
 		list-style-type: none;
+		font-size: .75rem;
+		font-weight: bold;
 }
 
 #nav a:hover, a:active {
@@ -86,7 +95,7 @@ ul {
 
 .caption {
     color: black;
-    font-family: "Merriweather", Georgia, "Times New Roman", serif;
+    font-family: 'Open Sans', sans-serif, 'Times New Roman';
     font-style: italic;
     font-size: 0.8em;
     margin-top: 5px;
@@ -96,7 +105,7 @@ ul {
 #footer {
     color: black;
 		background-color: #91AA9D;
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: 'Open Sans', sans-serif, 'Times New Roman';
     font-size: 0.8em;
     border-top: 1px solid black;
 }
